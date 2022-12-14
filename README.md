@@ -31,6 +31,4 @@ Source: https://learncryptography.com/mathematics/prime-factorization
 * Language: Bash script
 * OS: Ubuntu 14.04 LTS
 
-## Author :octocat:
 
-[Dovine Owuor](https://www.linkedin.com/in/Dovineowuor/) | [Twitter](https://twitter.com/Dove-owuor) | [GitHub](https://github.com/Dovineowuor)
